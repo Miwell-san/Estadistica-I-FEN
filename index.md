@@ -17,7 +17,7 @@ Los contenidos y distribución de las cátedras del curso serán comunes para to
 (iv) Aplicación: Ventaja del local en deportes y nueva evidencia producto de la ausencia de público durante
 la pandemia. </p>
 
-- ** Video 1**: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s), para ver el video en cuestión.
+- **Video 1**: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s), para ver el video en cuestión.
 
 - **Láminas del Video**: Hacer click [aquí](https://drive.google.com/file/d/17l8oQDfuTiaiqyzPVySYgDEDkJBI9dhy/view).
 
