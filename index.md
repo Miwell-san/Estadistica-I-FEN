@@ -8,7 +8,7 @@ sino que también desarrolle la capacidad de aplicar técnicas de probabilidades
 novedosas. </p>
 
 # Contenidos
-Los contenidos y distribución de las cátedras del curso serán comunes para todas las secciones.
+<p style='text-align: justify;'>  Los contenidos y distribución de las cátedras del curso serán comunes para todas las secciones. </p>
 
 ## Video 1: Relevancia y causalidad
 <p style='text-align: justify;'> Los contenidos tratados son los siguientes: (i) Ejemplos de problemas de una y dos muestras donde se aplica estadística y econometría. 
