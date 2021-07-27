@@ -11,6 +11,9 @@ novedosas.
 ## Contenidos
 Los contenidos y distribución de las cátedras del curso serán comunes para todas las secciones.
 
-### Video 1: Temas del curso: Relevancia y causalidad
+### Video 1: Tema 1: Relevancia y causalidad
 
+- Video 1: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s)
+- Láminas del Video: 
+- Láminas de clase sincrónica: 
 ### Video 2: Análisis exploratorio de datos
