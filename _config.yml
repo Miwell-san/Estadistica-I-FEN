@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Estadística I"
-subtitle: "Profesores: Eduardo Engel, Juan Díaz, Tomás Cortés y Victor Martínez"
+description: "Profesores: Eduardo Engel, Juan Díaz, Tomás Cortés y Victor Martínez"
 github:
   is_project_page: false
