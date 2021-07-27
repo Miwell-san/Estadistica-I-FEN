@@ -10,14 +10,14 @@ novedosas. </p>
 # Contenidos
 Los contenidos y distribución de las cátedras del curso serán comunes para todas las secciones.
 
-## Tema 1: Relevancia y causalidad
+## Video 1: Relevancia y causalidad
 <p style='text-align: justify;'> Los contenidos tratados son los siguientes: (i) Ejemplos de problemas de una y dos muestras donde se aplica estadística y econometría. 
 (ii) Discusión del concepto de causalidad y su relevancia en estadística y diversas disciplinas FEN. 
 (iii) Aplicación: Análisis de John Snow de la epidemia de cólera de 1854 en Londres. 
 (iv) Aplicación: Ventaja del local en deportes y nueva evidencia producto de la ausencia de público durante
 la pandemia. </p>
 
-- **Video 1**: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s).
+Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s), para ver el video en cuestión.
 
 - **Láminas del Video**: Hacer click [aquí](https://drive.google.com/file/d/17l8oQDfuTiaiqyzPVySYgDEDkJBI9dhy/view).
 
