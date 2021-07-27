@@ -7,13 +7,15 @@ solo adquiera las herramientas para resolver problemas “similares” a los vis
 sino que también desarrolle la capacidad de aplicar técnicas de probabilidades y estadística en situaciones
 novedosas. </p>
 
-## Contenidos
+# Contenidos
 Los contenidos y distribución de las cátedras del curso serán comunes para todas las secciones.
 
-### Video 1: Tema 1: Relevancia y causalidad
+## Tema 1: Relevancia y causalidad
 
-- Video 1: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s)
-- Láminas del Video: Hacer click [aquí](https://github.com/Miwell-san/Estadistica-I-FEN/blob/gh-pages/1%20EE.pdf)
-- Láminas de clase sincrónica: 
+- **Video 1**: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s)
 
-### Video 2: Análisis exploratorio de datos
+- **Láminas del Video**: Hacer click <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://drive.google.com/drive/folders/1Kl2eXRbrK1kUSV0HgJSx6MFWEcBbtQRw" width="500" height="375">
+- **Láminas de clase sincrónica**: 
+
+## Video 2: Análisis exploratorio de datos
