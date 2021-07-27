@@ -1,4 +1,4 @@
-# Estadística I
+
 
 ## Contenidos
 Los contenidos y distribución de las cátedras del curso serán comunes para todas las secciones.
