@@ -19,7 +19,7 @@ la pandemia. </p>
 
 - **Video 1**: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s), para ver el video en cuestión.
 
-- **Láminas del Video**: Hacer click [aquí](https://drive.google.com/file/d/17l8oQDfuTiaiqyzPVySYgDEDkJBI9dhy/view), para acceder al archivo pdf utilizado en el video.
+- **Láminas del Video**: Hacer click [aquí](https://drive.google.com/file/d/1ACTinUuFWxVZqJBntEKvj0R82M1TDhM8/view), para acceder al archivo pdf utilizado en el video.
 
 - **Láminas de clase sincrónica**: 
 
