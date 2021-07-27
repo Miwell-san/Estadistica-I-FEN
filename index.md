@@ -16,7 +16,7 @@ Los contenidos y distribución de las cátedras del curso serán comunes para to
 
 - **Láminas del Video**: some text and [here is possible to download the file in PDF][1]
 
-[1]:{{https://github.com/Miwell-san/Estadistica-I-FEN}}/Clases/1.pdf
+[1]:{{https://github.com/Miwell-san/Estadistica-I-FEN/Clases/1.pdf}}
 
 - **Láminas de clase sincrónica**: 
 
