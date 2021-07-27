@@ -14,7 +14,7 @@ Los contenidos y distribución de las cátedras del curso serán comunes para to
 
 - **Video 1**: Hacer click [aquí](https://www.youtube.com/watch?v=QSipVRPvUgU&list=PL85P3dEf-o-u6IktBvpC8SDNQb_Xw2A2z&index=1&t=2448s)
 
-- **Láminas del Video**: Hacer click [aquí](https://github.com/Miwell-san/Estadistica-I-FEN/Clases/1.pdf)
+- **Láminas del Video**: Hacer click a [aquí](https://drive.google.com/drive/folders/1Kl2eXRbrK1kUSV0HgJSx6MFWEcBbtQRw)
 
 - **Láminas de clase sincrónica**: 
 
